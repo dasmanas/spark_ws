@@ -1,3 +1,5 @@
+package com.practice.streaming.discretized
+
 import org.apache.spark._
 import org.apache.spark.streaming._
 import org.apache.spark.streaming.dstream.{DStream, ReceiverInputDStream}
